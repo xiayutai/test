@@ -1,0 +1,3 @@
+[submodule "sample-rabbitmq"]
+	path = sample-rabbitmq
+	url = git@github.com:xiayutai/sample-rabbitmq.git
